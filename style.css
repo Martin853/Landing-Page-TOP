@@ -35,3 +35,19 @@ body {
   gap: 2em;
   padding-left: 40em;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#content {
+  background-color: #1f2937;
+  font-family: 'Roboto' sans-serif;
+}
+
+.text {
+  color: #f9faf8;
+}
+
+h1 {
+  font-size: 48px;
+  padding-left: 5em;
+}
