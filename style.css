@@ -43,11 +43,15 @@ body {
   font-family: 'Roboto' sans-serif;
 }
 
-.text {
-  color: #f9faf8;
-}
-
 h1 {
+  color: #f9faf8;
   font-size: 48px;
   padding-left: 5em;
+}
+
+.paragraph {
+  color: #e5e7eb;
+  font-size: 18px;
+  padding-left: 13em;
+  padding-top: 1em;
 }
