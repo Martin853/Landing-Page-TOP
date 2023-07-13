@@ -12,6 +12,7 @@ body {
 #container {
   background-color: #1f2937;
   display: flex;
+  padding-bottom: 10em;
 }
 
 .header-text {
@@ -23,4 +24,14 @@ body {
   color: #e5e7eb;
   font-size: 18px;
   list-style-type: none;
+}
+
+.header-text {
+  padding-left: 10em;
+}
+
+.navbar-right > ul {
+  display: flex;
+  gap: 2em;
+  padding-left: 40em;
 }
