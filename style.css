@@ -8,3 +8,19 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+#container {
+  background-color: #1f2937;
+  display: flex;
+}
+
+.header-text {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
+.header-link {
+  color: #e5e7eb;
+  font-size: 18px;
+  list-style-type: none;
+}
