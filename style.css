@@ -39,6 +39,7 @@ body {
 #content {
   background-color: #1f2937;
   font-family: 'Roboto' sans-serif;
+  padding-bottom: 3em;
 }
 
 h1 {
@@ -56,10 +57,10 @@ h1 {
 
 div.btn {
   padding-left: 14.7em;
+  padding-top: 2em;
 }
 
 .blue-button {
-  padding-top: 2em;
   background-color: #3882f6;
   color: #f9faf8;
   border: none;
