@@ -33,10 +33,8 @@ body {
 .navbar-right > ul {
   display: flex;
   gap: 2em;
-  padding-left: 40em;
+  padding-left: 35em;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 #content {
   background-color: #1f2937;
@@ -54,4 +52,9 @@ h1 {
   font-size: 18px;
   padding-left: 13em;
   padding-top: 1em;
+}
+
+.blue-button {
+  padding-left: 15em;
+  padding-top: 0.5em;
 }
