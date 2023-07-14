@@ -54,7 +54,12 @@ h1 {
   padding-top: 1em;
 }
 
-.blue-button {
+div.btn {
   padding-left: 15em;
+}
+
+.blue-button {
   padding-top: 0.5em;
+  background-color: #3882f6;
+  color: #f9faf8;
 }
