@@ -3,16 +3,16 @@
   margin: 0;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 #container {
   background-color: #1f2937;
   display: flex;
-  padding-bottom: 10em;
+  padding: 2rem 0 2rem 0;
 }
 
 .header-text {
@@ -27,7 +27,7 @@ body {
 }
 
 .header-text {
-  padding-left: 10em;
+  margin-left: 10em;
 }
 
 .navbar-right > ul {
@@ -37,9 +37,18 @@ body {
 }
 
 #content {
+  padding-top: 8rem;
   background-color: #1f2937;
-  font-family: 'Roboto' sans-serif;
+  font-family: "Roboto" sans-serif;
   padding-bottom: 3em;
+  display: flex;
+  justify-content: space-between;
+}
+
+#placeholder-image {
+  margin-right: 10rem;
+  width: 450px;
+  height: auto;
 }
 
 h1 {
